@@ -1,0 +1,38 @@
+h1 {
+    text-decoration: underline;
+    text-align: center;
+    color: teal;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    text-align: center;
+}
+label, input, select {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+input, select {
+   margin-top: 5px;
+   margin-bottom: 15px;
+}
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: teal;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+#output {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: teal;
+}
